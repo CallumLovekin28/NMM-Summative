@@ -29,7 +29,6 @@ Week 7: [UX choreography]()
 
 
 ![Material](https://raw.githubusercontent.com/CallumLovekin28/NMM-Summative/master/Images/Material.png)
-### Project Material
 
 We were put into teams with a handful of photography students and given the brief "Rebrand Imperial Leather" We chose as a group to change everything about the brand, from the target audience all the way to the packaging of their products. It was an immensely fun project which pushed my skills and my ability top work with others.
 
