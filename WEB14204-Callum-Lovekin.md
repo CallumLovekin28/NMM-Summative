@@ -9,7 +9,7 @@
 
 ### Introduction
 
-This project on USer Experience was a really interesting one that I have learnt alot. Having the ability to of worked on a live brief with an actual client was a really invaluable experience.
+This project on User Experience was a really interesting one that I have learnt alot. Having the ability to of worked on a live brief with an actual client was a really invaluable experience. Working on an App for a museum has been a challenging experience but an exciting one as it is not something I would usually work on so it has pushed me. 
 
 ![blogs](https://raw.githubusercontent.com/CallumLovekin28/NMM-Summative/master/Images/Blogs.png)
 
@@ -30,23 +30,25 @@ Week 7: [UX choreography]()
 
 ![Material](https://raw.githubusercontent.com/CallumLovekin28/NMM-Summative/master/Images/Material.png)
 
-We were put into teams with a handful of photography students and given the brief "Rebrand Imperial Leather" We chose as a group to change everything about the brand, from the target audience all the way to the packaging of their products. It was an immensely fun project which pushed my skills and my ability top work with others.
-
-We researched and looked into other soap brands and how they advertise themselves to identify a gap in the market, we found a gap and started straight away on producing content for the project.
+Below is a list of material required for the hand-in for the project. I have included "Old" versions of some of the material to demonstrate the major change in our work after recieving our formative feedback.
 
 - [Competitor Analysis]()
 
-- [Elevator Pitch]()
+- [Elevator Pitch](https://docs.google.com/document/d/10SKfuGsolsGMAS-KE-qXAK9XnOdpojTMy1YCMleO2JU/edit?usp=sharing)
 
-- [Concept One-Pager]()
+- [Concept One-Pager](https://drive.google.com/file/d/1pVYf-cnz8zL5rcR-yiZXEDRCR83Iiwgq/view?usp=sharing)
 
-- [Experience Map]()
+- [Experience Map](https://drive.google.com/file/d/1XPuHak-oeSTtOpTd96ZPt04QfgDIsa8T/view?usp=sharing)
+- [Old - Experience Map](https://drive.google.com/file/d/1XPuHak-oeSTtOpTd96ZPt04QfgDIsa8T/view?usp=sharing)
 
-- [Branding]()
+- [Wireframe](https://drive.google.com/file/d/15D_yWQ-1TBt15E4CF9p2hiavjh-ZpF8C/view?usp=sharing)
+- [Old - Wireframe](https://drive.google.com/file/d/1Wzbnyhhhe7vXxVhQviArdZmvpMOFBnt_/view?usp=sharing)
 
-- [Formative Presentation]()
+- [Branding](https://drive.google.com/drive/folders/18VTEUrIjipsO6WWimDnwJvuknlTaCJut?usp=sharing)
 
-- [User Personas]()
+- [Formative Presentation](https://drive.google.com/file/d/1qYuLCF-i4EVCvvFcRQF6GATMpZUKt-9G/view?usp=sharing)
+
+- [User Personas](https://docs.google.com/document/d/1Vj_lbFFjSIwNnTGtZiWFEIoSbJH9Xq_VhKhHvQieLPw/edit?usp=sharing)
 
 - [Prototype(s)]()
 
