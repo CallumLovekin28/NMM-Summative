@@ -1,4 +1,4 @@
-![title]()
+![title](https://raw.githubusercontent.com/CallumLovekin28/NMM-Summative/master/Images/Title.png)
 ## Info
 
 **Name:** Callum Lovekin
@@ -11,7 +11,7 @@
 
 This project on USer Experience was a really interesting one that I have learnt alot. Having the ability to of worked on a live brief with an actual client was a really invaluable experience.
 
-![blogs](https://raw.githubusercontent.com/CallumLovekin28/CreativeCollaboration/master/Images/blogposts.png)
+![blogs](https://raw.githubusercontent.com/CallumLovekin28/NMM-Summative/master/Images/Blogs.png)
 
 Week 1 : [Ideas for NMM brief](https://medium.com/@c.lovekin/nmm-week-one-d7abf6538b82) 
 
