@@ -56,6 +56,8 @@ Below is a list of material required for the hand-in for the project. I have inc
 
 - [User-testing report]()
 
-- [Summative presentation]()
+- [Summative presentation - KeyNote](https://drive.google.com/file/d/1dsxuOcysPFwQpXdIU2GafHDjsEqZZvK6/view?usp=sharing)
+
+- [Summative presentation - PDF](https://drive.google.com/file/d/1ZHJBGFCPDNUlLLvWexh6ulKBSk051dFK/view?usp=sharing)
 
 
