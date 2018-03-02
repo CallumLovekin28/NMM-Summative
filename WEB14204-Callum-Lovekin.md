@@ -25,14 +25,14 @@ Week 5: [Formative Feedback Action Plan](https://medium.com/@c.lovekin/formative
 
 Week 6: [Telling The Story Of Your Project / Research](https://medium.com/@c.lovekin/using-storytelling-to-effectively-communicate-your-research-nmm6-28fbf746dd61) 
 
-Week 7: [UX choreography]() 
+Week 7: [UX choreography](https://medium.com/@c.lovekin/ux-choreography-nmm7-caafad37b7) 
 
 
 ![Material](https://raw.githubusercontent.com/CallumLovekin28/NMM-Summative/master/Images/Material.png)
 
 Below is a list of material required for the hand-in for the project. I have included "Old" versions of some of the material to demonstrate the major change in our work after recieving our formative feedback.
 
-- [Competitor Analysis]()
+- [Competitor Analysis](https://docs.google.com/document/d/12XkZdo-OxWi1CBYtpY-kvG0UmCEiKzsOPLtdOQwfjCU/edit?usp=sharing)
 
 - [Elevator Pitch](https://docs.google.com/document/d/10SKfuGsolsGMAS-KE-qXAK9XnOdpojTMy1YCMleO2JU/edit?usp=sharing)
 
