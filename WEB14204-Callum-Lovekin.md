@@ -52,7 +52,7 @@ Below is a list of material required for the hand-in for the project. I have inc
 
 - [Prototype(s)](https://drive.google.com/drive/folders/1zz6gBNPmqcVB2hswZf1YgXHGFmwY5sgR?usp=sharing)
 
-- [Concept video]()
+- [Concept video](https://drive.google.com/file/d/1UqAx6clH8zLT3DbCIJwOlGHC3T8NSeTK/view?usp=sharing)
 
 - [User-testing report]()
 
