@@ -54,7 +54,7 @@ Below is a list of material required for the hand-in for the project. I have inc
 
 - [Concept video](https://drive.google.com/file/d/1UqAx6clH8zLT3DbCIJwOlGHC3T8NSeTK/view?usp=sharing)
 
-- [User-testing report]()
+- [User-testing report](https://docs.google.com/document/d/1ULQ_Czq3YZ803wv0Rc-EoRbcuWbjj-UUZBMLzYbZjEw/edit?usp=sharing)
 
 - [Summative presentation - KeyNote](https://drive.google.com/file/d/1dsxuOcysPFwQpXdIU2GafHDjsEqZZvK6/view?usp=sharing)
 
