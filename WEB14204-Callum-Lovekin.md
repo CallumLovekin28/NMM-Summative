@@ -60,8 +60,10 @@ Below is a list of material required for the hand-in for the project. I have inc
 
 - [User-testing report](https://docs.google.com/document/d/1ULQ_Czq3YZ803wv0Rc-EoRbcuWbjj-UUZBMLzYbZjEw/edit?usp=sharing)
 
+- [Self Assesment](https://docs.google.com/document/d/1k6WsPl0fYX0oOSuY00dhoOBA1Yz7WSnqI9WjYem1dDk/edit?usp=sharing)
+
 - [Summative presentation - KeyNote](https://drive.google.com/file/d/1dsxuOcysPFwQpXdIU2GafHDjsEqZZvK6/view?usp=sharing)
 
-- [Summative presentation - PDF](https://drive.google.com/file/d/1ZHJBGFCPDNUlLLvWexh6ulKBSk051dFK/view?usp=sharing)
+- [Formative 2 presentation - PDF](https://drive.google.com/file/d/1nQYGvWWIAerwpN4KXVy1yRxISTnmzNmc/view?usp=sharing)
 
 
